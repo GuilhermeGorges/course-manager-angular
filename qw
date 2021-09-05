@@ -1,0 +1,89 @@
+[33mcommit cf6aaec3c22b21bd9ef081c19641cbee3269ff51[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: GuilhermeGorges <guilhermegabriel1992@gmail.com>
+Date:   Sun Sep 5 10:09:29 2021 -0300
+
+    add readme.md
+
+[33mcommit 9a6cec5f5d0feaa26088e07b0ee3b22ce10feaa2[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sun Sep 5 09:47:29 2021 -0300
+
+    add readme.md
+
+[33mcommit c970a266c15782604de5e6b97c7aafcdec56c8ea[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 21:25:56 2021 -0300
+
+    segregated error-404
+
+[33mcommit 91d1043467080dec82f5e7e0df84fbe84f540eea[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 21:14:19 2021 -0300
+
+    segregated nav-bar
+
+[33mcommit 64357b8899ef785b2af0c63190e3f9817cf69ef6[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 21:08:53 2021 -0300
+
+    segregated pipe
+
+[33mcommit 4e7d01cbde34e47f9fe3ecde4b4bd5ddb6fbd416[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 20:48:33 2021 -0300
+
+    segregating responsibilities
+
+[33mcommit 2b2e2d1a3acc8168b0b5f8875005d8e6cd457e9b[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 20:33:11 2021 -0300
+
+    implements https methods
+
+[33mcommit dbedb1b626bbf127ab2a357101789780cf6610c1[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 19:41:31 2021 -0300
+
+    implements node server
+
+[33mcommit 713930b9a6a12085a3e0ca63d46970d44a295aae[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 19:35:14 2021 -0300
+
+    implements save
+
+[33mcommit d1f0d07ebc5fc2960795e9b2e4742f7d0aac4505[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 17:33:43 2021 -0300
+
+    implements course route
+
+[33mcommit ca82e4b6851d7880289d9839a65a79dfcd5914cc[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 16:58:19 2021 -0300
+
+    implements nav-bar
+
+[33mcommit 681ff5249b7c79e5511ac9dca74c93f0cb8379f6[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Sat Sep 4 16:14:25 2021 -0300
+
+    implements pipe
+
+[33mcommit d1ebe8367e7fb90326d1a47f2655615354e7ac5b[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Fri Sep 3 19:47:04 2021 -0300
+
+    implements courses filter
+
+[33mcommit 929f7759b6cc1e28e0e9b678f49e8ff9a823b1b2[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Fri Sep 3 11:56:27 2021 -0300
+
+    first commit
+
+[33mcommit ce1df140dd7df1eef61f1c9db972b8934f37875f[m
+Author: guilhermegabriel <guilhermegabriel>
+Date:   Thu Sep 2 12:18:58 2021 -0300
+
+    initial commit
